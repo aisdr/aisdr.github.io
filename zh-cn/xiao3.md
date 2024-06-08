@@ -8,7 +8,7 @@ Xiao301具有小型化，轻量化，超长待机的特点。 Xiao301机身比�
 
 Xiao301具有软件升级功能， 通过更新软件，可以支持检测未来出现的新型号无人机。   
 
-<p><img  src="../style/Xiao301_2.jpg"  width="400"/></p>
+<p><img  src="../style/xiao301_2.jpg"  width="400"/></p>
 
 
 #  产品规格

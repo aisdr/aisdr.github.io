@@ -2,7 +2,7 @@
 
 ### AiSDR Products
 
-<p><img  src="../style/Xiao301_1.jpg"  width="250"/></p>
+<p><img  src="../style/xiao301_1.jpg"  width="250"/></p>
 
 [**Xiao301**](/en-us/xiao3.md)
 Portable civil Drone Detection Instrument 

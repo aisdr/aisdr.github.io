@@ -3,7 +3,7 @@
 ### AiSDR(乐凯智能软件无线电)的主要产品
 
  
-<p><img  src="../style/Xiao301_1.jpg"  width="250"/></p>
+<p><img  src="../style/xiao301_1.jpg"  width="250"/></p>
 
 [**Xiao301**](/zh-cn/xiao3.md)
 民用小型无人机检测仪器  
