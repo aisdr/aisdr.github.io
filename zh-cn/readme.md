@@ -2,11 +2,20 @@
 
 ### AiSDR(乐凯智能软件无线电)的主要产品
 
+ 
+<p><img  src="../style/Xiao301_1.jpg"  width="250"/></p>
+
 [**Xiao301**](/zh-cn/xiao3.md)
 民用小型无人机检测仪器  
 - 可检测DJI，FPV等主流小型民用无人机
 - 小型手持式，业界最轻的无人机检测器
 - 工作时间大于20小时，业界待机最长的无人机检测器
+
+
+
+
+
+<p><img  src="../style/remoteid1.png"  width="400"/></p>  
 
 [**RemoteID**](/zh-cn/remoteid.md)
 民用小型无人机远程识别模块

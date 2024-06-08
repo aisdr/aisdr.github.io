@@ -8,6 +8,7 @@ Xiao301 has the features of miniaturization, lightweight, and long standby time.
 
 Xiao301 has a software upgrade function, which can support the detection of new models of drones in the future.  
 
+<p><img  src="../style/Xiao301_2_en.jpg"  width="400"/></p>
 
 #  Specification
 |   Function    |   Parameter   |
